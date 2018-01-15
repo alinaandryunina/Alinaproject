@@ -1,4 +1,4 @@
 # Alinaproject
 ## Хозяин _Андрюнина Алина
 *[почта] (andralinka@gmail.com)*
-*[Telegram] (@andralina)*
+*[Telegram] (https://t.me/Andralina)*
